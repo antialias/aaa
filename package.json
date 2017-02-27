@@ -1,0 +1,26 @@
+{
+  "name": "aaa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require babel-register --require babel-polyfill"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antialias/aaa.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/antialias/aaa/issues"
+  },
+  "homepage": "https://github.com/antialias/aaa#readme",
+  "description": "",
+  "devDependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.1.10",
+    "babel-register": "^6.23.0",
+    "mocha": "^3.2.0"
+  }
+}

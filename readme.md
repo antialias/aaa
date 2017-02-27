@@ -1,0 +1,1 @@
+array functions that work with promises
